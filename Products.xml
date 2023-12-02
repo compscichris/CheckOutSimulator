@@ -1,0 +1,1127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Product>Air freshener</Product>
+    <Price>12.43</Price>
+  </row>
+  <row>
+    <Product>Alfredo sauce</Product>
+    <Price>10.71</Price>
+  </row>
+  <row>
+    <Product>All spice</Product>
+    <Price>4.14</Price>
+  </row>
+  <row>
+    <Product>Allergy medication</Product>
+    <Price>20.06</Price>
+  </row>
+  <row>
+    <Product>Aluminum foil</Product>
+    <Price>8.92</Price>
+  </row>
+  <row>
+    <Product>Anchovies</Product>
+    <Price>6.04</Price>
+  </row>
+  <row>
+    <Product>Antacids</Product>
+    <Price>10.88</Price>
+  </row>
+  <row>
+    <Product>Apple sauce</Product>
+    <Price>16.84</Price>
+  </row>
+  <row>
+    <Product>Apples</Product>
+    <Price>14.3</Price>
+  </row>
+  <row>
+    <Product>Apricots</Product>
+    <Price>7.51</Price>
+  </row>
+  <row>
+    <Product>Asparagus</Product>
+    <Price>20.23</Price>
+  </row>
+  <row>
+    <Product>Avocados</Product>
+    <Price>9.38</Price>
+  </row>
+  <row>
+    <Product>Baby food</Product>
+    <Price>5.82</Price>
+  </row>
+  <row>
+    <Product>Bacon</Product>
+    <Price>1.68</Price>
+  </row>
+  <row>
+    <Product>Bagels</Product>
+    <Price>9.16</Price>
+  </row>
+  <row>
+    <Product>Baguette</Product>
+    <Price>14.64</Price>
+  </row>
+  <row>
+    <Product>Bananas</Product>
+    <Price>16.76</Price>
+  </row>
+  <row>
+    <Product>Band-aids</Product>
+    <Price>4.59</Price>
+  </row>
+  <row>
+    <Product>Bar soap</Product>
+    <Price>12.72</Price>
+  </row>
+  <row>
+    <Product>Basil</Product>
+    <Price>14.9</Price>
+  </row>
+  <row>
+    <Product>Bay leaf</Product>
+    <Price>14.08</Price>
+  </row>
+  <row>
+    <Product>BBQ sauce</Product>
+    <Price>18.73</Price>
+  </row>
+  <row>
+    <Product>Bean salad</Product>
+    <Price>6.26</Price>
+  </row>
+  <row>
+    <Product>Beans</Product>
+    <Price>5.54</Price>
+  </row>
+  <row>
+    <Product>Beef pot pie</Product>
+    <Price>5.53</Price>
+  </row>
+  <row>
+    <Product>Beets</Product>
+    <Price>18.3</Price>
+  </row>
+  <row>
+    <Product>Berries</Product>
+    <Price>11.89</Price>
+  </row>
+  <row>
+    <Product>Bisquick</Product>
+    <Price>6.33</Price>
+  </row>
+  <row>
+    <Product>Bleach</Product>
+    <Price>17.85</Price>
+  </row>
+  <row>
+    <Product>Blue berries</Product>
+    <Price>19.78</Price>
+  </row>
+  <row>
+    <Product>Body wash</Product>
+    <Price>7.91</Price>
+  </row>
+  <row>
+    <Product>Bologna</Product>
+    <Price>4.8</Price>
+  </row>
+  <row>
+    <Product>Bottle liners</Product>
+    <Price>19.44</Price>
+  </row>
+  <row>
+    <Product>Bottles</Product>
+    <Price>7.16</Price>
+  </row>
+  <row>
+    <Product>Bouillon cubes</Product>
+    <Price>5.46</Price>
+  </row>
+  <row>
+    <Product>Bread</Product>
+    <Price>2.82</Price>
+  </row>
+  <row>
+    <Product>Breath mints</Product>
+    <Price>15.99</Price>
+  </row>
+  <row>
+    <Product>Broccoli</Product>
+    <Price>14.42</Price>
+  </row>
+  <row>
+    <Product>Brownies</Product>
+    <Price>18.76</Price>
+  </row>
+  <row>
+    <Product>Burgers</Product>
+    <Price>5.04</Price>
+  </row>
+  <row>
+    <Product>Burritos</Product>
+    <Price>6.07</Price>
+  </row>
+  <row>
+    <Product>Butter</Product>
+    <Price>2.64</Price>
+  </row>
+  <row>
+    <Product>Cabbage</Product>
+    <Price>12.36</Price>
+  </row>
+  <row>
+    <Product>Cake mix</Product>
+    <Price>18.73</Price>
+  </row>
+  <row>
+    <Product>Candles</Product>
+    <Price>11.87</Price>
+  </row>
+  <row>
+    <Product>Candy</Product>
+    <Price>2.35</Price>
+  </row>
+  <row>
+    <Product>Cantaloupe</Product>
+    <Price>8.99</Price>
+  </row>
+  <row>
+    <Product>Carrots</Product>
+    <Price>3.47</Price>
+  </row>
+  <row>
+    <Product>Cat food</Product>
+    <Price>17.31</Price>
+  </row>
+  <row>
+    <Product>Cauliflower</Product>
+    <Price>14.74</Price>
+  </row>
+  <row>
+    <Product>Celery</Product>
+    <Price>2.74</Price>
+  </row>
+  <row>
+    <Product>Cereal</Product>
+    <Price>4.55</Price>
+  </row>
+  <row>
+    <Product>Chard</Product>
+    <Price>13.79</Price>
+  </row>
+  <row>
+    <Product>Cheese</Product>
+    <Price>4.31</Price>
+  </row>
+  <row>
+    <Product>Cheezies</Product>
+    <Price>19.24</Price>
+  </row>
+  <row>
+    <Product>Cherries</Product>
+    <Price>13.34</Price>
+  </row>
+  <row>
+    <Product>Chew toy</Product>
+    <Price>1.21</Price>
+  </row>
+  <row>
+    <Product>Chick peas</Product>
+    <Price>15.73</Price>
+  </row>
+  <row>
+    <Product>Chili</Product>
+    <Price>3.39</Price>
+  </row>
+  <row>
+    <Product>Chip dip</Product>
+    <Price>11.33</Price>
+  </row>
+  <row>
+    <Product>Chips</Product>
+    <Price>13.34</Price>
+  </row>
+  <row>
+    <Product>Chives</Product>
+    <Price>20.62</Price>
+  </row>
+  <row>
+    <Product>Chocolate</Product>
+    <Price>7.52</Price>
+  </row>
+  <row>
+    <Product>Cilantro</Product>
+    <Price>5.73</Price>
+  </row>
+  <row>
+    <Product>Cinnamon</Product>
+    <Price>3.28</Price>
+  </row>
+  <row>
+    <Product>Clams</Product>
+    <Price>2.27</Price>
+  </row>
+  <row>
+    <Product>Cleaner</Product>
+    <Price>4.65</Price>
+  </row>
+  <row>
+    <Product>Cloves</Product>
+    <Price>12.02</Price>
+  </row>
+  <row>
+    <Product>Club soda</Product>
+    <Price>10.01</Price>
+  </row>
+  <row>
+    <Product>Cocoa powder</Product>
+    <Price>12.46</Price>
+  </row>
+  <row>
+    <Product>Coffee</Product>
+    <Price>18.98</Price>
+  </row>
+  <row>
+    <Product>Cold medicine</Product>
+    <Price>15.81</Price>
+  </row>
+  <row>
+    <Product>Collards</Product>
+    <Price>11.52</Price>
+  </row>
+  <row>
+    <Product>Conditioner</Product>
+    <Price>15.26</Price>
+  </row>
+  <row>
+    <Product>Cookies</Product>
+    <Price>2.74</Price>
+  </row>
+  <row>
+    <Product>Corn chips</Product>
+    <Price>14.51</Price>
+  </row>
+  <row>
+    <Product>Cottage cheese</Product>
+    <Price>15.82</Price>
+  </row>
+  <row>
+    <Product>Cotton swabs</Product>
+    <Price>15.9</Price>
+  </row>
+  <row>
+    <Product>Couscous</Product>
+    <Price>9.27</Price>
+  </row>
+  <row>
+    <Product>Crackers</Product>
+    <Price>17.89</Price>
+  </row>
+  <row>
+    <Product>Cranberries</Product>
+    <Price>15.17</Price>
+  </row>
+  <row>
+    <Product>Cream</Product>
+    <Price>4.74</Price>
+  </row>
+  <row>
+    <Product>Croissants</Product>
+    <Price>20.62</Price>
+  </row>
+  <row>
+    <Product>Cucumbers</Product>
+    <Price>11.72</Price>
+  </row>
+  <row>
+    <Product>Decorations</Product>
+    <Price>8.76</Price>
+  </row>
+  <row>
+    <Product>Dental floss</Product>
+    <Price>11.64</Price>
+  </row>
+  <row>
+    <Product>Deodorant</Product>
+    <Price>18.58</Price>
+  </row>
+  <row>
+    <Product>Detergent</Product>
+    <Price>7.74</Price>
+  </row>
+  <row>
+    <Product>Diapers</Product>
+    <Price>20.37</Price>
+  </row>
+  <row>
+    <Product>Dish soap</Product>
+    <Price>18.64</Price>
+  </row>
+  <row>
+    <Product>Detergent</Product>
+    <Price>15.18</Price>
+  </row>
+  <row>
+    <Product>Dog food</Product>
+    <Price>15.79</Price>
+  </row>
+  <row>
+    <Product>Doughnuts</Product>
+    <Price>2.1</Price>
+  </row>
+  <row>
+    <Product>Dried fruit</Product>
+    <Price>2.81</Price>
+  </row>
+  <row>
+    <Product>Drink crystals</Product>
+    <Price>13.34</Price>
+  </row>
+  <row>
+    <Product>Egg Nog</Product>
+    <Price>11.82</Price>
+  </row>
+  <row>
+    <Product>Egg plant</Product>
+    <Price>20.66</Price>
+  </row>
+  <row>
+    <Product>Egg substitute</Product>
+    <Price>13.79</Price>
+  </row>
+  <row>
+    <Product>Endives</Product>
+    <Price>4.62</Price>
+  </row>
+  <row>
+    <Product>English muffins</Product>
+    <Price>3.88</Price>
+  </row>
+  <row>
+    <Product>Fabric softener</Product>
+    <Price>19.58</Price>
+  </row>
+  <row>
+    <Product>Facial tissue</Product>
+    <Price>19.8</Price>
+  </row>
+  <row>
+    <Product>Fish sticks</Product>
+    <Price>2.88</Price>
+  </row>
+  <row>
+    <Product>Flea collar</Product>
+    <Price>2.33</Price>
+  </row>
+  <row>
+    <Product>Flounder</Product>
+    <Price>16.03</Price>
+  </row>
+  <row>
+    <Product>Flour</Product>
+    <Price>7.57</Price>
+  </row>
+  <row>
+    <Product>Flu medicine</Product>
+    <Price>17.09</Price>
+  </row>
+  <row>
+    <Product>Formula</Product>
+    <Price>18.52</Price>
+  </row>
+  <row>
+    <Product>French fries</Product>
+    <Price>19.82</Price>
+  </row>
+  <row>
+    <Product>Fruit</Product>
+    <Price>6.24</Price>
+  </row>
+  <row>
+    <Product>Fruit juice</Product>
+    <Price>19.86</Price>
+  </row>
+  <row>
+    <Product>Fruit salad</Product>
+    <Price>12.65</Price>
+  </row>
+  <row>
+    <Product>Garbage bags</Product>
+    <Price>7.03</Price>
+  </row>
+  <row>
+    <Product>Garlic</Product>
+    <Price>14.17</Price>
+  </row>
+  <row>
+    <Product>Ginger</Product>
+    <Price>1.98</Price>
+  </row>
+  <row>
+    <Product>Glass's cleaner</Product>
+    <Price>15.99</Price>
+  </row>
+  <row>
+    <Product>Graham crumbles</Product>
+    <Price>8.15</Price>
+  </row>
+  <row>
+    <Product>Granola bars</Product>
+    <Price>2.88</Price>
+  </row>
+  <row>
+    <Product>Grapes</Product>
+    <Price>11.35</Price>
+  </row>
+  <row>
+    <Product>Gravy</Product>
+    <Price>19.94</Price>
+  </row>
+  <row>
+    <Product>Green peppers</Product>
+    <Price>10.1</Price>
+  </row>
+  <row>
+    <Product>Hair gel</Product>
+    <Price>18.04</Price>
+  </row>
+  <row>
+    <Product>Half and half</Product>
+    <Price>10.69</Price>
+  </row>
+  <row>
+    <Product>Halibut</Product>
+    <Price>3.2</Price>
+  </row>
+  <row>
+    <Product>Hand soap</Product>
+    <Price>14.51</Price>
+  </row>
+  <row>
+    <Product>Hash browns</Product>
+    <Price>13.68</Price>
+  </row>
+  <row>
+    <Product>Hickory sticks</Product>
+    <Price>1.12</Price>
+  </row>
+  <row>
+    <Product>Honey</Product>
+    <Price>5.29</Price>
+  </row>
+  <row>
+    <Product>Hot dogs</Product>
+    <Price>13.05</Price>
+  </row>
+  <row>
+    <Product>Hot sauce</Product>
+    <Price>12.89</Price>
+  </row>
+  <row>
+    <Product>Ice cream</Product>
+    <Price>12.72</Price>
+  </row>
+  <row>
+    <Product>Icing</Product>
+    <Price>10.28</Price>
+  </row>
+  <row>
+    <Product>Instant Noodles</Product>
+    <Price>16.15</Price>
+  </row>
+  <row>
+    <Product>JellO</Product>
+    <Price>20.58</Price>
+  </row>
+  <row>
+    <Product>Jelly</Product>
+    <Price>1.67</Price>
+  </row>
+  <row>
+    <Product>Juice</Product>
+    <Price>20.89</Price>
+  </row>
+  <row>
+    <Product>Ketchup</Product>
+    <Price>8.58</Price>
+  </row>
+  <row>
+    <Product>Kiwis</Product>
+    <Price>11.97</Price>
+  </row>
+  <row>
+    <Product>Kohlrabi</Product>
+    <Price>3.83</Price>
+  </row>
+  <row>
+    <Product>Kumquats</Product>
+    <Price>6.72</Price>
+  </row>
+  <row>
+    <Product>Lemons</Product>
+    <Price>11.9</Price>
+  </row>
+  <row>
+    <Product>Lettuce</Product>
+    <Price>7.63</Price>
+  </row>
+  <row>
+    <Product>Limes</Product>
+    <Price>5.58</Price>
+  </row>
+  <row>
+    <Product>Linguini</Product>
+    <Price>15.21</Price>
+  </row>
+  <row>
+    <Product>Lip balm</Product>
+    <Price>9.7</Price>
+  </row>
+  <row>
+    <Product>Liver</Product>
+    <Price>18.61</Price>
+  </row>
+  <row>
+    <Product>Lobster</Product>
+    <Price>16.69</Price>
+  </row>
+  <row>
+    <Product>Lunch bags</Product>
+    <Price>7.43</Price>
+  </row>
+  <row>
+    <Product>Mac and cheese</Product>
+    <Price>2.07</Price>
+  </row>
+  <row>
+    <Product>Macaroni</Product>
+    <Price>18.83</Price>
+  </row>
+  <row>
+    <Product>Mangoes</Product>
+    <Price>9.06</Price>
+  </row>
+  <row>
+    <Product>Maple syrup</Product>
+    <Price>13.75</Price>
+  </row>
+  <row>
+    <Product>Margarine</Product>
+    <Price>14.13</Price>
+  </row>
+  <row>
+    <Product>Marmalade</Product>
+    <Price>9.61</Price>
+  </row>
+  <row>
+    <Product>Mashed potatoes</Product>
+    <Price>13.35</Price>
+  </row>
+  <row>
+    <Product>Mayonnaise</Product>
+    <Price>8.25</Price>
+  </row>
+  <row>
+    <Product>Medicine</Product>
+    <Price>9.56</Price>
+  </row>
+  <row>
+    <Product>Melon</Product>
+    <Price>6.21</Price>
+  </row>
+  <row>
+    <Product>Mineral water</Product>
+    <Price>9.3</Price>
+  </row>
+  <row>
+    <Product>Mints</Product>
+    <Price>14.32</Price>
+  </row>
+  <row>
+    <Product>Mixed vegetables</Product>
+    <Price>9.11</Price>
+  </row>
+  <row>
+    <Product>Mixers</Product>
+    <Price>15.77</Price>
+  </row>
+  <row>
+    <Product>Molasses</Product>
+    <Price>15.01</Price>
+  </row>
+  <row>
+    <Product>Mousse</Product>
+    <Price>11.02</Price>
+  </row>
+  <row>
+    <Product>Mozzarella sticks</Product>
+    <Price>8.26</Price>
+  </row>
+  <row>
+    <Product>Muffin Mix</Product>
+    <Price>2.62</Price>
+  </row>
+  <row>
+    <Product>Mushrooms</Product>
+    <Price>5.01</Price>
+  </row>
+  <row>
+    <Product>Muslix</Product>
+    <Price>5.83</Price>
+  </row>
+  <row>
+    <Product>Mussels</Product>
+    <Price>15.41</Price>
+  </row>
+  <row>
+    <Product>Mustard</Product>
+    <Price>7.67</Price>
+  </row>
+  <row>
+    <Product>Nacho chips</Product>
+    <Price>8.31</Price>
+  </row>
+  <row>
+    <Product>Nail clippers</Product>
+    <Price>6.45</Price>
+  </row>
+  <row>
+    <Product>Napkins</Product>
+    <Price>17.7</Price>
+  </row>
+  <row>
+    <Product>Nectarines</Product>
+    <Price>1.76</Price>
+  </row>
+  <row>
+    <Product>Oatmeal</Product>
+    <Price>6.55</Price>
+  </row>
+  <row>
+    <Product>Oil cooking</Product>
+    <Price>13.48</Price>
+  </row>
+  <row>
+    <Product>Olives</Product>
+    <Price>18.46</Price>
+  </row>
+  <row>
+    <Product>Onions</Product>
+    <Price>13.83</Price>
+  </row>
+  <row>
+    <Product>Oranges</Product>
+    <Price>19.3</Price>
+  </row>
+  <row>
+    <Product>Oregano</Product>
+    <Price>1.35</Price>
+  </row>
+  <row>
+    <Product>Oven cleaner</Product>
+    <Price>8.15</Price>
+  </row>
+  <row>
+    <Product>Oysters</Product>
+    <Price>14.42</Price>
+  </row>
+  <row>
+    <Product>Pabulum</Product>
+    <Price>8.54</Price>
+  </row>
+  <row>
+    <Product>Pancake mix</Product>
+    <Price>13.6</Price>
+  </row>
+  <row>
+    <Product>Pancakes</Product>
+    <Price>8.3</Price>
+  </row>
+  <row>
+    <Product>Papaya</Product>
+    <Price>20.29</Price>
+  </row>
+  <row>
+    <Product>Paper plates</Product>
+    <Price>13.48</Price>
+  </row>
+  <row>
+    <Product>Paper towels</Product>
+    <Price>11.91</Price>
+  </row>
+  <row>
+    <Product>Paprika</Product>
+    <Price>13.82</Price>
+  </row>
+  <row>
+    <Product>Parsley</Product>
+    <Price>13.03</Price>
+  </row>
+  <row>
+    <Product>Parsnips</Product>
+    <Price>12.46</Price>
+  </row>
+  <row>
+    <Product>Pasta</Product>
+    <Price>9.2</Price>
+  </row>
+  <row>
+    <Product>Peaches</Product>
+    <Price>13.9</Price>
+  </row>
+  <row>
+    <Product>Peanut butter</Product>
+    <Price>10.97</Price>
+  </row>
+  <row>
+    <Product>Peanuts</Product>
+    <Price>3.69</Price>
+  </row>
+  <row>
+    <Product>Pears</Product>
+    <Price>5.71</Price>
+  </row>
+  <row>
+    <Product>Pectin</Product>
+    <Price>1.56</Price>
+  </row>
+  <row>
+    <Product>Pepperoni</Product>
+    <Price>19.74</Price>
+  </row>
+  <row>
+    <Product>Perogies</Product>
+    <Price>1.51</Price>
+  </row>
+  <row>
+    <Product>Pickles</Product>
+    <Price>10.63</Price>
+  </row>
+  <row>
+    <Product>Pineapple</Product>
+    <Price>15.0</Price>
+  </row>
+  <row>
+    <Product>Pita bread</Product>
+    <Price>6.66</Price>
+  </row>
+  <row>
+    <Product>Pizza</Product>
+    <Price>1.05</Price>
+  </row>
+  <row>
+    <Product>Plastic cups</Product>
+    <Price>18.2</Price>
+  </row>
+  <row>
+    <Product>Plums</Product>
+    <Price>1.13</Price>
+  </row>
+  <row>
+    <Product>Popcorn</Product>
+    <Price>19.08</Price>
+  </row>
+  <row>
+    <Product>Popsicles</Product>
+    <Price>3.77</Price>
+  </row>
+  <row>
+    <Product>Pork chops</Product>
+    <Price>2.13</Price>
+  </row>
+  <row>
+    <Product>Pot scrubbers</Product>
+    <Price>11.09</Price>
+  </row>
+  <row>
+    <Product>Potatoes</Product>
+    <Price>17.48</Price>
+  </row>
+  <row>
+    <Product>Pretzels</Product>
+    <Price>1.17</Price>
+  </row>
+  <row>
+    <Product>Protein bars</Product>
+    <Price>11.18</Price>
+  </row>
+  <row>
+    <Product>Puffed wheat</Product>
+    <Price>20.32</Price>
+  </row>
+  <row>
+    <Product>Pumpernickel</Product>
+    <Price>11.5</Price>
+  </row>
+  <row>
+    <Product>Pumpkin</Product>
+    <Price>7.1</Price>
+  </row>
+  <row>
+    <Product>Radishes</Product>
+    <Price>17.98</Price>
+  </row>
+  <row>
+    <Product>Raisin bran</Product>
+    <Price>9.15</Price>
+  </row>
+  <row>
+    <Product>Raspberries</Product>
+    <Price>4.25</Price>
+  </row>
+  <row>
+    <Product>Ravioli</Product>
+    <Price>1.31</Price>
+  </row>
+  <row>
+    <Product>Red peppers</Product>
+    <Price>8.72</Price>
+  </row>
+  <row>
+    <Product>Relish</Product>
+    <Price>19.32</Price>
+  </row>
+  <row>
+    <Product>Rice crispies</Product>
+    <Price>3.63</Price>
+  </row>
+  <row>
+    <Product>Roast beef</Product>
+    <Price>20.67</Price>
+  </row>
+  <row>
+    <Product>Rotini</Product>
+    <Price>12.31</Price>
+  </row>
+  <row>
+    <Product>Rutabagas</Product>
+    <Price>13.36</Price>
+  </row>
+  <row>
+    <Product>Rye bread</Product>
+    <Price>5.0</Price>
+  </row>
+  <row>
+    <Product>Salad dressing</Product>
+    <Price>3.52</Price>
+  </row>
+  <row>
+    <Product>Salami</Product>
+    <Price>2.71</Price>
+  </row>
+  <row>
+    <Product>Salmon</Product>
+    <Price>16.39</Price>
+  </row>
+  <row>
+    <Product>Salsa</Product>
+    <Price>9.8</Price>
+  </row>
+  <row>
+    <Product>Sardines</Product>
+    <Price>19.65</Price>
+  </row>
+  <row>
+    <Product>Sausage</Product>
+    <Price>4.32</Price>
+  </row>
+  <row>
+    <Product>Scrubbers</Product>
+    <Price>1.89</Price>
+  </row>
+  <row>
+    <Product>Sealable bags</Product>
+    <Price>18.84</Price>
+  </row>
+  <row>
+    <Product>Shampoo</Product>
+    <Price>7.35</Price>
+  </row>
+  <row>
+    <Product>Shreddies</Product>
+    <Price>20.78</Price>
+  </row>
+  <row>
+    <Product>Shrimp</Product>
+    <Price>17.92</Price>
+  </row>
+  <row>
+    <Product>Sorbet</Product>
+    <Price>8.66</Price>
+  </row>
+  <row>
+    <Product>Sour cream</Product>
+    <Price>17.68</Price>
+  </row>
+  <row>
+    <Product>Sourdough</Product>
+    <Price>11.34</Price>
+  </row>
+  <row>
+    <Product>Soy milk</Product>
+    <Price>3.12</Price>
+  </row>
+  <row>
+    <Product>Soy sauce</Product>
+    <Price>9.36</Price>
+  </row>
+  <row>
+    <Product>Spaghetti</Product>
+    <Price>17.58</Price>
+  </row>
+  <row>
+    <Product>Spinach</Product>
+    <Price>19.17</Price>
+  </row>
+  <row>
+    <Product>Sponges</Product>
+    <Price>5.71</Price>
+  </row>
+  <row>
+    <Product>Sport drink</Product>
+    <Price>14.26</Price>
+  </row>
+  <row>
+    <Product>Sprinkles</Product>
+    <Price>4.31</Price>
+  </row>
+  <row>
+    <Product>Sprouts</Product>
+    <Price>5.54</Price>
+  </row>
+  <row>
+    <Product>Squash</Product>
+    <Price>10.39</Price>
+  </row>
+  <row>
+    <Product>Steak</Product>
+    <Price>6.92</Price>
+  </row>
+  <row>
+    <Product>Steak sauce</Product>
+    <Price>6.35</Price>
+  </row>
+  <row>
+    <Product>Stir fry</Product>
+    <Price>7.59</Price>
+  </row>
+  <row>
+    <Product>Strawberries</Product>
+    <Price>15.26</Price>
+  </row>
+  <row>
+    <Product>Sugar</Product>
+    <Price>4.91</Price>
+  </row>
+  <row>
+    <Product>Sword fish</Product>
+    <Price>11.78</Price>
+  </row>
+  <row>
+    <Product>Syrup</Product>
+    <Price>3.46</Price>
+  </row>
+  <row>
+    <Product>Taquitos</Product>
+    <Price>14.26</Price>
+  </row>
+  <row>
+    <Product>Tartar Sauce</Product>
+    <Price>19.88</Price>
+  </row>
+  <row>
+    <Product>Tater tots</Product>
+    <Price>9.3</Price>
+  </row>
+  <row>
+    <Product>Teething ring</Product>
+    <Price>18.72</Price>
+  </row>
+  <row>
+    <Product>Tilapia</Product>
+    <Price>2.43</Price>
+  </row>
+  <row>
+    <Product>Toilet paper</Product>
+    <Price>11.1</Price>
+  </row>
+  <row>
+    <Product>Tomatoes</Product>
+    <Price>6.36</Price>
+  </row>
+  <row>
+    <Product>Tortillas</Product>
+    <Price>3.99</Price>
+  </row>
+  <row>
+    <Product>Trail mix</Product>
+    <Price>12.9</Price>
+  </row>
+  <row>
+    <Product>Treats</Product>
+    <Price>18.64</Price>
+  </row>
+  <row>
+    <Product>Tub cleaner</Product>
+    <Price>11.51</Price>
+  </row>
+  <row>
+    <Product>Turkey</Product>
+    <Price>13.95</Price>
+  </row>
+  <row>
+    <Product>TV dinners</Product>
+    <Price>3.5</Price>
+  </row>
+  <row>
+    <Product>Vacuum bags</Product>
+    <Price>20.37</Price>
+  </row>
+  <row>
+    <Product>Vanilla extract</Product>
+    <Price>11.05</Price>
+  </row>
+  <row>
+    <Product>Veggie burgers</Product>
+    <Price>1.47</Price>
+  </row>
+  <row>
+    <Product>Vinegar</Product>
+    <Price>5.85</Price>
+  </row>
+  <row>
+    <Product>Waffles</Product>
+    <Price>3.53</Price>
+  </row>
+  <row>
+    <Product>Wax paper</Product>
+    <Price>18.43</Price>
+  </row>
+  <row>
+    <Product>Whipping cream</Product>
+    <Price>13.76</Price>
+  </row>
+  <row>
+    <Product>Whole grain</Product>
+    <Price>19.78</Price>
+  </row>
+  <row>
+    <Product>Yeast</Product>
+    <Price>16.48</Price>
+  </row>
+  <row>
+    <Product>Yellow peppers</Product>
+    <Price>6.73</Price>
+  </row>
+  <row>
+    <Product>Yogurt</Product>
+    <Price>7.99</Price>
+  </row>
+  <row>
+    <Product>Zucchini</Product>
+    <Price>13.2</Price>
+  </row>
+</data>
