@@ -19,13 +19,15 @@
 #include <mutex>
 
 using namespace std;
+
+mutex globalMutex;
+
 /**
  * FileReader is a class that uses static callbacks and has a callback wrapper
  * callback is the function for parsing the file.
  * string filename is the name of file to be scanned.
  * int size is size of the file.
  */
-mutex globalMutex;
 class FileReader
 {
     std::function<string (string name)>callback;
@@ -280,9 +282,9 @@ public:
         return tuples;
     }
     /**
-     * ParseXML2
-     * @param name
-     * @return
+     * ParseXML2 uses regex to parse data from an XML file
+     * @param filename is the name of the file
+     * @return result, a vector of tuple<string, double>
      */
     vector<tuple<string, double>> ParseXML2(string filename)
     {
@@ -345,7 +347,7 @@ public:
      * ParseXML() makes vector of tuples with an XML file.
      * @param name is the name of the file to be opened. This method is exclusively used if we want to make a vector
      * of tuples. This function isn't used as a callback with Set()
-     * @return tuples, the vector of tuples we extracted after reading the files.
+     * @return result, a vector of tuple<string, double>
      */
     vector<tuple<string, double>> ParseXML(string name)
     {
@@ -613,6 +615,11 @@ public:
         return nullptr;
     }
 };
+/**
+ * Cart is a class that represents a shopping cart, with an limited number of items
+ * that can be added. The items are represented by Barcodes for simplicity and to
+ * reduce redundancy.
+ */
 class Cart
 {
 public:
@@ -658,6 +665,10 @@ public:
         this->accesses++;
     }
 };
+/**
+ * CartManager is a class that represents the manager for the cart, essentially a
+ * checkout line or register.
+ */
 class CartManager{
 public:
     queue<shared_ptr<Cart>> container;
@@ -699,6 +710,10 @@ public:
     }
 
 };
+/**
+ * The CartQueueManager class is a class that represents the whole grocery store as a
+ * whole, with 10 checkout lines, or queues.
+ */
 class CartQueueManager{
 public:
     vector<shared_ptr<CartManager>> qmContainer;
